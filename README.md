@@ -47,10 +47,10 @@ ChatSpace is a simple, real-time chat application built using **Java** and **Swi
    ![Server Screenshot](SS1.png)
 
 3. **Chatting Screenshot**
-   Server side:
+   - Server side:
    ![img](ServerSS.png)
 
-   Client side:
+   - Client side:
    ![img](ClientSS.png)
 
 ---
