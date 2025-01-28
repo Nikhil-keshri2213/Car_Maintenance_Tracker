@@ -1,5 +1,5 @@
 
-# **ChatSpace - Real-Time Chat Application**  
+# **ChatSpace : Real-Time Chat Application**  
 
 ## **Overview**  
 ChatSpace is a simple, real-time chat application built using **Java** and **Swing** with a client-server architecture. It provides an intuitive GUI for seamless text-based communication between users. The project is an excellent demonstration of socket programming and GUI design skills in Java.  
